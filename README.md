@@ -24,6 +24,10 @@
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=mathcarmo&show_icons=true&theme=radical)
 
+## Linguagens mais utilizadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathcarmo&layout=compact&langs_count=6&theme=tokyonight)
+
+
 ## Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-josé-10561814/)
